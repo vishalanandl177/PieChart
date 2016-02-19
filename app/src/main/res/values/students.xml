@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="student">
+        <item>Nisha</item>
+        <item>Kajal</item>
+        <item>Roshni</item>
+        <item>Barkha</item>
+        <item>Sanjay</item>
+        <item>Aakash</item>
+        <item>Arjit</item>
+        <item>Anshul</item>
+        <item>Gauraang</item>
+    </string-array>
+
+</resources>

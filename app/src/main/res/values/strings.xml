@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Academic Data</string>
+    <string name="select_student_name">Select Student</string>
+    <string name="exit">Exit</string>
+    <string name="about">About</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_academic_data">AcademicDataActivity</string>
+    <string name="academic_data">Academic Data</string>
+    <string name="title_activity_empty">Empty</string>
+    <string name="mathMastery">Math Mastery</string>
+    <string name="rc">RC Level</string>
+    <string name="title_activity_math_mastery">MathMastery</string>
+</resources>
